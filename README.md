@@ -1,4 +1,4 @@
-# Walmart Near-Real-Time Data Warehouse — HYBRIDJOIN ETL
+# Walmart Data Warehouse — HYBRIDJOIN ETL
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12%2B-4169E1?logo=postgresql&logoColor=white)
@@ -7,7 +7,6 @@
 
 A near-real-time data warehouse for Walmart-style retail data. Transactional records are streamed in, enriched on the fly with customer and product master data using a multi-threaded **HYBRIDJOIN** stream-relation join, and loaded into a **star-schema** warehouse in PostgreSQL. The warehouse then powers **20 OLAP queries** built with slicing, dicing, drill-down, `ROLLUP`, and materialized-view techniques.
 
-> Course project for **DS3003 / DS3004 – Data Warehousing & Business Intelligence**.
 
 ---
 
