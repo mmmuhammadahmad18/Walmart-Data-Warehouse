@@ -176,9 +176,4 @@ The three source CSVs (`customer_master_data.csv`, `product_master_data.csv`, `t
 
 ---
 
-## Author
-
-**Muhammad Ahmad** — BS Data Science, FAST NUCES
-[LinkedIn](https://www.linkedin.com/in/mmuhammadahmad/)
-
 *Academic project — shared for portfolio purposes.*
