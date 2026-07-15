@@ -174,6 +174,4 @@ Together the queries demonstrate slicing, dicing, drill-down/roll-up, `ROLLUP` a
 
 The three source CSVs (`customer_master_data.csv`, `product_master_data.csv`, `transactional_data.csv`) are course-provided and **not committed** to keep the repo lightweight and avoid redistributing dataset files. Place them in a `data/` folder before running, or point the script to their location when prompted. A small sample can be added if you'd like the repo to run end-to-end out of the box.
 
----
 
-*Academic project — shared for portfolio purposes.*
